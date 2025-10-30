@@ -5,10 +5,10 @@ A simple C# console project created to practice basic programming concepts, such
 ## Purpose
 
 ### This project helps to reinforce fundamental programming skills:
-Using operators (+, -, *, /)
-Writing conditional statements (if, else if, else)
-Working with logical operators (&&, ||, !)
-Reading input from the console
+- Using operators (+, -, *, /)
+- Writing conditional statements (if, else if, else)
+- Working with logical operators (&&, ||, !)
+- Reading input from the console
 
 ## Features
 
