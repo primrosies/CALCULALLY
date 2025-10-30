@@ -18,10 +18,10 @@ Reading input from the console
 
 ## How to Run
 
-Clone the repository:
+1. Clone the repository:
 git clone https://github.com/primrosies/CALCULALLY
-Run the project (F5 in Visual Studio or dotnet run in terminal).
-Enter the numbers and the selected operation when prompted.
+2. Run the project (F5 in Visual Studio or dotnet run in terminal).
+3. Enter the numbers and the selected operation when prompted.
 
 ## Learning Goals
 
