@@ -12,3 +12,4 @@ C:\Users\doush\OneDrive\Documents\SWE\Little Projects\Simple Calculator\obj\Debu
 C:\Users\doush\OneDrive\Documents\SWE\Little Projects\Simple Calculator\obj\Debug\net8.0\Simple Calculator.pdb
 C:\Users\doush\OneDrive\Documents\SWE\Little Projects\Simple Calculator\obj\Debug\net8.0\Simple Calculator.genruntimeconfig.cache
 C:\Users\doush\OneDrive\Documents\SWE\Little Projects\Simple Calculator\obj\Debug\net8.0\ref\Simple Calculator.dll
+C:\Users\doush\OneDrive\Documents\SWE\Little Projects\Simple Calculator\obj\Debug\net8.0\Simple Calculator.sourcelink.json
