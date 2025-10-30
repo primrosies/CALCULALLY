@@ -19,7 +19,7 @@ Reading input from the console
 ## How to Run
 
 Clone the repository:
-git clone [GitHub](https://github.com/primrosies/CALCULALLY)
+git clone https://github.com/primrosies/CALCULALLY
 Run the project (F5 in Visual Studio or dotnet run in terminal).
 Enter the numbers and the selected operation when prompted.
 
