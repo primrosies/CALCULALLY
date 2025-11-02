@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\doush\\OneDrive\\Documents\\SWE\\Little Projects\\CALCULALLY\\Simple Calculator.csproj",
-      "projectName": "Simple Calculator",
-      "projectPath": "C:\\Users\\doush\\OneDrive\\Documents\\SWE\\Little Projects\\CALCULALLY\\Simple Calculator.csproj",
+      "projectUniqueName": "C:\\Users\\doush\\OneDrive\\Documents\\SWE\\Little Projects\\CALCULALLY\\CALCULALLY.csproj",
+      "projectName": "CALCULALLY",
+      "projectPath": "C:\\Users\\doush\\OneDrive\\Documents\\SWE\\Little Projects\\CALCULALLY\\CALCULALLY.csproj",
       "packagesPath": "C:\\Users\\doush\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\doush\\OneDrive\\Documents\\SWE\\Little Projects\\CALCULALLY\\obj\\",
       "projectStyle": "PackageReference",

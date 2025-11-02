@@ -1,0 +1,15 @@
+C:\Users\doush\OneDrive\Documents\SWE\Little Projects\CALCULALLY\bin\Debug\net8.0\CALCULALLY.exe
+C:\Users\doush\OneDrive\Documents\SWE\Little Projects\CALCULALLY\bin\Debug\net8.0\CALCULALLY.deps.json
+C:\Users\doush\OneDrive\Documents\SWE\Little Projects\CALCULALLY\bin\Debug\net8.0\CALCULALLY.runtimeconfig.json
+C:\Users\doush\OneDrive\Documents\SWE\Little Projects\CALCULALLY\bin\Debug\net8.0\CALCULALLY.dll
+C:\Users\doush\OneDrive\Documents\SWE\Little Projects\CALCULALLY\bin\Debug\net8.0\CALCULALLY.pdb
+C:\Users\doush\OneDrive\Documents\SWE\Little Projects\CALCULALLY\obj\Debug\net8.0\CALCULALLY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\doush\OneDrive\Documents\SWE\Little Projects\CALCULALLY\obj\Debug\net8.0\CALCULALLY.AssemblyInfoInputs.cache
+C:\Users\doush\OneDrive\Documents\SWE\Little Projects\CALCULALLY\obj\Debug\net8.0\CALCULALLY.AssemblyInfo.cs
+C:\Users\doush\OneDrive\Documents\SWE\Little Projects\CALCULALLY\obj\Debug\net8.0\CALCULALLY.csproj.CoreCompileInputs.cache
+C:\Users\doush\OneDrive\Documents\SWE\Little Projects\CALCULALLY\obj\Debug\net8.0\CALCULALLY.sourcelink.json
+C:\Users\doush\OneDrive\Documents\SWE\Little Projects\CALCULALLY\obj\Debug\net8.0\CALCULALLY.dll
+C:\Users\doush\OneDrive\Documents\SWE\Little Projects\CALCULALLY\obj\Debug\net8.0\refint\CALCULALLY.dll
+C:\Users\doush\OneDrive\Documents\SWE\Little Projects\CALCULALLY\obj\Debug\net8.0\CALCULALLY.pdb
+C:\Users\doush\OneDrive\Documents\SWE\Little Projects\CALCULALLY\obj\Debug\net8.0\CALCULALLY.genruntimeconfig.cache
+C:\Users\doush\OneDrive\Documents\SWE\Little Projects\CALCULALLY\obj\Debug\net8.0\ref\CALCULALLY.dll
