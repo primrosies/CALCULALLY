@@ -1,6 +1,6 @@
-﻿/************** Simple calculator ***************
-Simple calculator to test my C# knowledge so far
-***********************************************/
+﻿// /************** Simple calculator ***************
+// Simple calculator to test my C# knowledge so far
+// ***********************************************/
 
 RunCalculator();
 void RunCalculator()
@@ -26,25 +26,25 @@ void RunCalculator()
 
     // Calculator
 
-    double result;
-
+    double result = 0;
 
     if (userOperator == "+")
     {
-        double sum = firstNumber + secondNumber;
-        DefaultMessage(); // to be fixed with the DefaultMessage method
+        result = firstNumber + secondNumber;
+        DefaultMessage(firstNumber, secondNumber, userOperator, result);
     }
 
     else if (userOperator == "-")
     {
-        double difference = firstNumber - secondNumber;
-        Console.WriteLine($"The result is: {difference}");
+        result = firstNumber - secondNumber;
+        DefaultMessage(firstNumber, secondNumber, userOperator, result);
     }
 
     else if (userOperator == "*")
     {
-        double multiply = firstNumber * secondNumber;
-        Console.WriteLine($"The result is: {multiply}");
+        result = firstNumber * secondNumber;
+        DefaultMessage(firstNumber, secondNumber, userOperator, result);
+
     }
 
     else if (userOperator == "/")
@@ -56,14 +56,20 @@ void RunCalculator()
         }
         else
         {
-            double dividend = firstNumber / secondNumber;
-            Console.WriteLine($"The result is: {dividend}");
+            result = firstNumber / secondNumber;
+            DefaultMessage(firstNumber, secondNumber, userOperator, result);
         }
     }
+    else
+    {
+        Console.WriteLine("Invalid operation!");
+        RunCalculator();
+    }
+
     Console.WriteLine("Press [R] to restart or [F] to finish");
     string? input = Console.ReadLine();
 
-    if (input == "R" || input == "r")
+    if (input?.ToLower() == "r") 
     {
         RunCalculator();
     }
@@ -74,8 +80,7 @@ void RunCalculator()
     }
 }
 
-// Method to fix 
-void DefaultMessage(string message)
+void DefaultMessage(double firstNumber, double secondNumber, string userOperator, double result)
 {
-    Console.WriteLine($@"{message}");
+    Console.WriteLine($"{firstNumber} {userOperator} {secondNumber} is {result}");
 }
